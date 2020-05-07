@@ -1,4 +1,4 @@
-module github.com/clevergo/demo
+module github.com/echonil/demo
 
 go 1.13
 
